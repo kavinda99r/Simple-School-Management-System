@@ -1,1 +1,1 @@
-# Simple School Management System using C# and SQL ✅
+# Simple School Management System (C# and SQL) ✅
