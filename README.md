@@ -1,1 +1,1 @@
-# Simple-SMS-Project-using-C--and-SQL
+# Simple School Management System using C# and SQL
