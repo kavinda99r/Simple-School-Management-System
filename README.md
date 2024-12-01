@@ -2,7 +2,7 @@
 
 Simple School Management System is a lightweight and efficient desktop application developed in C# with a SQL Server database. This application streamlines basic school management tasks, allowing administrators to manage student and teacher records with ease.
 
-<h3>Features</h3>
+<h3>Key Features</h3>
 
 - Admin User Login: Secure login system for administrators.
 - Admin Dashboard: Centralized interface for navigating all functionalities.
