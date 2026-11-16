@@ -20,6 +20,7 @@ Simple School Management System is a lightweight and efficient desktop applicati
 - Database Management Tool: SQL Server Management Studio (SSMS)
 
 <h2> </h2>
+
 <h3>Happy Coding! 🎉</h3>
 
 ---
